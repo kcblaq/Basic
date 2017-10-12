@@ -1,0 +1,38 @@
+@charset "utf-8";
+body {
+    
+   }
+
+.nav {
+	
+	width: 100%;
+	
+}
+.logo {
+	
+	margin-left: 10px;
+	height: 30px;
+	width: 30px;
+
+}
+.navy {
+	color: white;
+	text-decoration: none;
+	margin-left: 30px;
+
+}
+.boty{
+	margin-left: 200px;
+}
+.footer{
+	background-color: black;
+	width: 100%;
+	height: 80px;
+	text-align: center;
+	color: white;
+	margin-top: 5px;
+
+}
+.main{
+	height: 550px;
+}
